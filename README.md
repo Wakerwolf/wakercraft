@@ -1,6 +1,6 @@
 - Wakercraft -
 
-- this is going to be an eaglercraft client, hopefully realesing around december, or 2024. -
+- this is going to be an eaglercraft client, hopefully releasing around december, or 2024. -
 
 - it is going to be a hacked client just because.
 
